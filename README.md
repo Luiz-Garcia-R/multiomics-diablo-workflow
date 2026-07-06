@@ -34,7 +34,7 @@ O pipeline utiliza principalmente os seguintes pacotes:
 
 ## Observações
 
-Este script foi desenvolvido como material de apoio para uma disciplina de análise multiômica e tem como objetivo ilustrar a aplicação do método DIABLO. Etapas de pré-processamento dos dados (filtragem, normalização, seleção de amostras e controle de qualidade) não estão incluídas neste repositório, uma vez que dependem das características de cada conjunto de dados.
+Este script foi desenvolvido como um exemplo didático de aplicação do método DIABLO.
 
 ---
 **Autor:** Luiz Garcia
